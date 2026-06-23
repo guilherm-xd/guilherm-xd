@@ -46,6 +46,14 @@ Gosto de criar sites, sistemas web e experiências interativas, sempre buscando 
   <a href="https://github.com/guilherm-xd/secretaria-digital-senai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilherm-xd&repo=secretaria-digital-senai&theme=tokyonight" />
   </a>
+
+<a href="https://github.com/guilherm-xd/projeto-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilherm-xd&repo=projeto-final&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/guilherm-xd/unica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guilherm-xd&repo=unica&theme=tokyonight" />
+  </a>
 </p>
 
 ---
