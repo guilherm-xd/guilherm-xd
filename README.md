@@ -61,7 +61,7 @@ Gosto de criar sites, sistemas web e experiências interativas, sempre buscando 
 ## Status do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guilherm-xd&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=guilherm-xd&custom_title=Status%20do%20GitHub%20de%20Guilherme&show_icons=true&include_all_commits=true&theme=tokyonight" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=guilherm-xd&layout=compact&theme=tokyonight" />
 </p>
 
