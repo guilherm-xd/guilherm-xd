@@ -75,6 +75,6 @@ Gosto de criar sites, sistemas web e experiências interativas, sempre buscando 
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-murillo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=orra&logoColor=white"/>
   </a>
 </p>
