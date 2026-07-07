@@ -16,7 +16,8 @@
 
 ## Sobre mim
 
-Sou estudante do [SENAI Morvan Figueiredo](https://www.sp.senai.br/unidade/mooca/), no curso de Análise e Desenvolvimento de Sistemas. Tenho interesse em transformar ideias em interfaces funcionais, organizadas e responsivas.
+Sou estudante do <a href="https://www.sp.senai.br/unidade/mooca/" style="vertical-align: middle;">
+  <img src="./img/link.svg?v=5" height="22" align="absmiddle"></a>, no curso de Análise e Desenvolvimento de Sistemas. Tenho interesse em transformar ideias em interfaces funcionais, organizadas e responsivas.
 
 Gosto de criar sites, sistemas web e experiências interativas, sempre buscando evoluir na prática e aprender novas tecnologias.
 
