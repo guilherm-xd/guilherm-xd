@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="16" viewBox="0 0 192 16">
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="16" viewBox="0 0 164 16">
   <text x="0" y="12" fill="#8B5CF6" text-decoration="underline"
-        font="600 14px 'Segoe UI', Arial, sans-serif">
+        font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="14">
     SENAI Morvan Figueiredo
   </text>
 </svg>
