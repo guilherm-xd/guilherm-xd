@@ -1,16 +1,16 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
   width="180"
-  height="20"
-  viewBox="0 0 188 20"
+  height="22"
+  viewBox="0 0 188 22"
 >
   <text
     x="0"
-    y="15"
+    y="16"
     fill="#8B5CF6"
     text-decoration="underline"
     font-family="Segoe UI, Arial, sans-serif"
     font-weight="600"
-    font-size="16"
+    font-size="18"
   >SENAI Morvan Figueiredo</text>
 </svg>
