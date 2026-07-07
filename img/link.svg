@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 20">
+  <style>
+    .text {
+      font: 600 16px "Segoe UI", Arial, sans-serif;
+      fill: #8B5CF6;
+    }
+  </style>
+
+  <text x="0" y="15" class="text">SENAI Morvan Figueiredo</text>
+</svg>
