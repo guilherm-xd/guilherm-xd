@@ -49,7 +49,7 @@ Gosto de criar sites, sistemas web e experiências interativas, sempre buscando 
   </a>
 
   <a href="https://github.com/guilherm-xd/projeto-final">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=guilherm-xd&repo=projeto-final&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=guilherm-xd&repo=controle-de-estoque&theme=tokyonight" />
   </a>
 
   <a href="https://github.com/guilherm-xd/unica">
